@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Tessa Welling (vervangen door jouw naam)
+Tessa Welling 
 
 #### Je startniveau:
-Ik ben nog niet zo'n held in het coderen en wil hier graag wel beter in worden, maar mijn niveua ligt nu nog op blauw/ rood. Ik doe het net iets te weining maar vind het wel erg leuk, zeker als het lukt.
+Ik ben nog niet zo'n held in het coderen en wil hier graag wel beter in worden, maar mijn niveua ligt nu nog op blauw. Ik doe het net iets te weining maar vind het wel erg leuk, zeker als het lukt. Ik hoop dan ook zeker dat ik aan het einde van dit blok sowieso op niveau rood zit. 
 
 #### Je focus:
-responsive
+Ik heb gekozen voor responsive, Ik denk dat ik hier het meeste aan heb en vind het persoonlijk erg belangrijk dat een website op elke device even goed is en de kwaliteit niet achteruit gaat als je een site opende op een laptop of telefoon.  
 
 </details>
 
@@ -53,11 +53,11 @@ Hoe overtuig ik mijn ouders dat ik alleen op reis kan?
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>uitwerken na afloop 2e werkgroep. Deze werkgroep waren wij op school aangewezig. Dit is voor mij de eerste keer dat ik een techinsch vak op school volg. dit vond ik erg fijn. e kon namelijk meteen feedback en uitleg vragen aan de docent of studentassistenen. </summary>
 
 ### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
+<img src="basiswebsite/ reisjunk_breakdownschets.pdf" width="375px" alt="breakdown van de hele pagina">
+(fotos toevoegen)
 ### dynamisch deel (bijv menu): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
