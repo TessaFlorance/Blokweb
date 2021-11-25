@@ -43,7 +43,7 @@ Homepage (reisjunk)
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Hoe overtuig ik mijn ouders dat ik alleen op reis kan?   
+Vrijwilligerswerk in het buitenland: de verschillende opties
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
