@@ -7,14 +7,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<title>Reisjunk</title>
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly" defer></script>
 	
 	<link href="styles/style.css" rel="stylesheet">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+	</style>	
 </head>
-
 <body>
 	<header> 
 		<nav>
+			<img src="./images/logo-reisjunk-new.png" alt="logo reisjunk" >
 			<button aria-hidden="true">
 				<span ></span>
 				<span ></span>
@@ -28,15 +33,10 @@
 					<a href="#"> Bestemmingen</a>
 				</li>
 				<li>
-					<a href="#"> Over ons</a>
+					<a href="../basiswebsite/reisjunk.html"> Over ons</a>
 				</li>
-				<li>
-					<a href="#"> Zoeken</a>
-				</li> <!-- in het menu zit een zoekbalk moet dat dan ook in de ul li worden gezet? --> 
 			</ul>
-		</nav>
-
-		<img src="./images/logo-reisjunk-new.png" alt="logo reisjunk" >
+		</nav>	
 	</header>
 
 	<main> 
@@ -48,8 +48,8 @@
 		</section>
 
 		<section>
-			<h2>Vers van de pers</h2>
-
+			<h2>VERS VAN DE PERS</h2>
+			
 			<ul>
 				<li>
 					<a href="#">
@@ -92,12 +92,12 @@
 		</section>
 
 		<section> 
-			<h2>Meest gelezen</h2>
+			<h2>MEEST GELEZEN</h2>
 
 			<ul>
 				<li>
 					<a href="#">
-						<h3> Wat te doen in Kaapstad? De leukste bezienswaardigheden + tips</h3>
+						<h3> Wat te doen in Kaapstad? </h3>
 						<img src="./images/kaapstad.jpeg" alt="foto kaapstad">
 					</a>
 				</li>
@@ -121,7 +121,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<h3>Wat te doen in Kaapstad? De leukste bezienswaardigheden + tips</h3>
+						<h3>Wat te doen in Kaapstad?</h3>
 						<img src="./images/camps-bay-Kaapstad-1680x1050.jpeg" alt="strand, baai in kaapstad">
 					</a>
 				</li>
@@ -135,7 +135,7 @@
 		</section>
 
 		<section>
-			<h2>Onze reisroutes</h2>
+			<h2>ONZE REISROUTES</h2>
 
 			<ul>
 				<li>
@@ -176,10 +176,23 @@
 				</li>
 			</ul>
 		</section>
-
-		
 	</main>
-
+	<footer>
+		<h2> SOCIAL CHECK IN</h2>
+		<ul>
+			<li>
+				<a href="https://www.instagram.com/reisjunk/">
+				<img src="./images/insta.png" alt="instagram logo">
+				</a>
+			</li>
+			<li>
+				<a href="https://m.facebook.com/reisjunk">
+				<img src="./images/facebook.png" alt="Facebook logo">
+				</a>
+			</li>
+		</ul>
+		<p>© 2021 Reisjunk.nl, alle rechten voorbehouden.</p>
+	</footer>
 	<script src="scripts/script.js"></script>
 </body>
 
