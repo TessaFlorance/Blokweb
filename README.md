@@ -33,7 +33,7 @@ Ik heb gekozen voor responsive, Ik denk dat ik hier het meeste aan heb en vind h
 ## Je website
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Ik kies voor de website reisjunk. Zelf maar ik veel gebruik van deze site en als ik mij verveel kan ik mij er goed op vermaken. Daarom leek het mij ook wel leuk om deze site eigenlijk na te gaan maken met mijn eigen code</summary>
 
 ### Je opdracht:
 https://www.reisjunk.nl/ 
@@ -43,7 +43,7 @@ Homepage (reisjunk)
 <img src="basiswebsite/ " width="375px" alt="omschrijving van de pagina">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Vrijwilligerswerk in het buitenland: de verschillende opties
+Over ons
 <img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -76,7 +76,9 @@ Vrijwilligerswerk in het buitenland: de verschillende opties
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreken met onze club wie elke vragen preceis had zodat wij deze uiteindelijk in het gesprek konden stellen. 
+
 - Oefenen met het maken van een slide show, dit is mijn code ...  
 
 ### Agenda voor meeting
@@ -84,21 +86,19 @@ samen met je groepje opstellen
 
 
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+|Marijn             | Dana                  |Sadie                  | Tessa                            |
+|                   |                       |                       |                                  |
+| Html Video        | img als achtergrond   |nog geen vragen        | het maken van een slide show     |
+| achtergrond img   |                       |                       |
+
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- tijdens dit voortgang gesrpek heb ik een duidelijk beeld gekregen wat er nou precies van mij verwcht word, hoe ver mijn klas genoten al zijn en hoe ik 1 heel belangrijk punt in mijn website maak namelijk een slide show. 
+Tijdens dit voortgang gesrpek heb ik een duidelijk beeld gekregen wat er nou precies van mij verwacht word, hoe ver mijn klas genoten al zijn en hoe ik 1 heel belangrijk punt in mijn website maak namelijk een slide show. 
 het maken van een slideshow deden wij gezamelijk in het gesprek in code pen, deze code heb ik opgeslagen en op de juiste manier toegepast van hoe mijn carousel er uit moest komen te zien. 
-- punt 2
-- nog een punt
-- ...
+
 
 </details>
 
@@ -112,28 +112,22 @@ het maken van een slideshow deden wij gezamelijk in het gesprek in code pen, dez
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week ben ik bezig geweest met mijn website. Tijdens de offline les op het TTH vond ik het erg fijn dat wij konden werken aan onze website. hierdoor kon je gemakkelijk vragen stellen aan andere studenten, en de studentasistenten. omdat je snel en gemakkelijk vragen kan stellen, blijf je ook minder hangen op 1 onderdeel in je site en kan je gemakkelijk veder en voortgang maken. 
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Marijn            | Dana           | Sadie              | Tessa                                |
+| ---               | ---            | ---                | ---                                  |
+| tekst uilijnen    | uitklap menu   | nog geen vragen    | afbeeldingen in github plaatsen      |
+
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+Ik had voor dit voort gang gesprek niet echt problemen die opgelost moest worden met behulp van de student assistenten/ wel is er mij uitgelegt hoe ik een afbeelding in dit read me bestand kan zetten. Wat ik ook erg fijn vind is dat de studenten niet meteen alles voordoen of voorzeggen. ze geven je vaak een site of een voorbeeld zodat je er zelf ook nog echt wat van leer. Als het dan uiteindelijk toch niet lukt helpen ze je. 
 </details>
+
 
 
 
@@ -142,34 +136,30 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ## Toegankelijkheidstest (week 4)
 
 <details>
-<summary>uitwerken na test in 8e voortgang</summary>
+<summary>Deze week gingen wij op school bezig met het testen van de toegankelijkheid. Dit was een erg leuke les en ook meteen leerzaam. Er was alleen 1 probleem en dat is dat ik nog niet super super ver was en niet alles goed kon testen. 
+Na het testen zijn wij weer zelfstandig bezig geweest met de website.
+</summary>
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Screenreader
-Hier korte omschrijving (met indien nodig een afbeelding)
-tijdens de les gingen wij beizg met een screen reader, automatisch werd mijn hele tekst doorgelzen en ben ik niet echt tegen iets aangelopen dat verhindering kan veroorzaken. 
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Tijdens de les gingen wij beizg met een screen reader, automatisch werd mijn hele tekst doorgelzen en ben ik niet echt tegen iets aangelopen dat verhindering kan veroorzaken. 
 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Parkison. 
+Mijn website was redelijk goed te gebruik dit omdat er niet echt buttons of knoppen in vererkt zitten alleen in het hamburger menu. Dit zou ik kunnen vebeteren door het menu nog iets groter te maken zodat je minder snel mis klikt. 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ook was het meteen een hele ervaring om aangesloten te zitten op dat aparaatje. en je eigenlijk weining controle had over je bewegingen. 
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Tap. 
+mijn hele site is te gebruiken met de toetsen, dit is natuurlijk erg fijn, maar er is wel 1 verbeter puntje en dat is dat als je nu gaat tappen en je het menu niet opend je als nog door het menu heen tapt ookal is het niet zichtbaar. Het mooiste zou natuurlijk zijn dan je alleen door het menu tapt als je ook op het menu klikt. Als je goed kijk zie je op de foto aan de linker kant dat je op een menu zit.  
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+
+Hoe is dit probleem kan oplossen ben ik nog niet achtergekomen. 
+
+
 
 </details>
 
@@ -180,29 +170,25 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 ## Voortgang 3 (week 4)
 
 <details>
-<summary>uitwerken voor 3e voortgang</summary>
+<summary>De puntjes moeten op de i worden gezegd.  </summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik nog even een eindsprint gaan maken, ik voor zo goed als mijn eerste pagina af maar de 2de moet ik nog mee beginnen. Maar ik ga er van uit dat ik het allemaal net optijd afkrijg. 
+
 - het maken van een overlay. hoe ik er voor zorg dat tekst over een afbeelding heen gaat met position sticky. 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Marijn                    | Dana          | Sadie   | Tessa                                   |
+| ---                       | ---           | ---     | ---                                     |
+| html pagina doorkijken    |  uitklappen   |         | overlay, teksy overafbeelding heen      |
+
+
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om ervoor de zorgen dat de tekst over een afbeelding heen gaat, maar dat was gelukkig niet zo. je kon het gemakkelijk maken met Position sticky en deze heb ik dna ook meerdere keren in mijn site gebruikt en toegepast. 
 
 </details>
 
@@ -217,10 +203,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+ik had moeite met het werken van grid en het opvullen van ruimte. Dit is uiteindelijk gelukt 
+(afbeelding die ik naar yunus stuurde )
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
+
 
 </details>
 
@@ -231,12 +219,12 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>Ik heb niet echt gebruik gemaakt van een stuk gekopieerde code wel heb ik vaak gekerne naar de site developer.mozilla en css-tricks ik vind dat op deze 2 sites alles duidelijk staat beschreven en wordt uitgelegd en evnetueel ook nog met voorbeelden.</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://css-tricks.com/
+2. https://developer.mozilla.org/en-US/
+3. https://fonts.google.com/specimen/Open+Sans 
 
 </details>
