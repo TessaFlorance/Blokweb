@@ -38,10 +38,12 @@ Ik heb gekozen voor responsive, Ik denk dat ik hier het meeste aan heb en vind h
 ### Je opdracht:
 https://www.reisjunk.nl/ 
 
-#### Screenshot(s) van de eerste pagina (small screen): 
+#### Screenshot(s) van de eerste pagina: 
 Homepage (reisjunk)
 <img src="images/Schermafbeelding 2021-12-15 om 15.35.32 " width="375px" alt="homepage breed">
 <img src="images/Schermafbeelding 2021-12-15 om 15.35.42 " width="375px" alt="homepage breed">
+<img src="images/Schermafbeelding 2021-12-15 om 15.36.02 " width="375px" alt="homepage small">
+<img src="images/Schermafbeelding 2021-12-15 om 15.36.222 " width="375px" alt="homepage small">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Over ons
