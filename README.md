@@ -116,9 +116,9 @@ Deze week ben ik bezig geweest met mijn website. Tijdens de offline les op het T
 
 ### Agenda voor meeting
 Vragen die worden gesteld:
-uitklappen menu 
-tekst uitlijnen 
-afbeeldingen in gethub kunnen plaatsen
+- uitklappen menu 
+- tekst uitlijnen 
+- afbeeldingen in gethub kunnen plaatsen
 
 
 
@@ -179,13 +179,10 @@ Hoe is dit probleem kan oplossen ben ik nog niet achtergekomen.
 Ik nog even een eindsprint gaan maken, ik voor zo goed als mijn eerste pagina af maar de 2de moet ik nog mee beginnen. Maar ik ga er van uit dat ik het allemaal net optijd afkrijg. 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| Marijn                    | Dana          | Sadie   | Tessa                                   |
-| ---                       | ---           | ---     | ---                                     |
-| html pagina doorkijken    |  uitklappen   |         | overlay, teksy overafbeelding heen      |
-
-
+vragen die gesteld worden: 
+- html pagina doorkijken 
+- iets uitklappen/ formulier
+- overlay, tekst over een afbeelding heen laten gaan. 
 
 
 ### Verslag van meeting
