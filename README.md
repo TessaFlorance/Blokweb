@@ -60,7 +60,7 @@ Over ons
 <summary>uitwerken na afloop 2e werkgroep. Deze werkgroep waren wij op school aangewezig. Dit is voor mij de eerste keer dat ik een techinsch vak op school volg. Dit vond ik erg fijn. Ik kon namelijk meteen feedback en uitleg vragen aan de docent of studentassistenen. Tijdens de les waren wij bezig met het maken van een breakdownschets, in het begin had ik er een beetje moeite mee het was namelijk een tijdje geleden dat ik bezig was met code en het maken van een breakdown schets was iets heel nieuws. in eersten instatie dacht ik is dit wel heel nuttig, wat heb ik hier aan maar na het maken van de schetsen en het beginnen met het schijven van mijn html was het toch best makkelijk. en kon je eigenlijk alles zo van je schetsen overnemen. </summary>
 
 ### de hele pagina: 
-<img src="images/reisjunk_homepage_breakdownschets.pdf" width="375px" alt="breakdown van de hele pagina">
+<img src="images/reisjunk_homepage_breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
 </details>
 
 
@@ -178,8 +178,6 @@ Hoe is dit probleem kan oplossen ben ik nog niet achtergekomen.
 ### Stand van zaken
 Ik nog even een eindsprint gaan maken, ik voor zo goed als mijn eerste pagina af maar de 2de moet ik nog mee beginnen. Maar ik ga er van uit dat ik het allemaal net optijd afkrijg. 
 
-- het maken van een overlay. hoe ik er voor zorg dat tekst over een afbeelding heen gaat met position sticky. 
-
 ### Agenda voor meeting
 samen met je groepje opstellen
 
@@ -194,7 +192,6 @@ samen met je groepje opstellen
 Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om ervoor de zorgen dat de tekst over een afbeelding heen gaat, maar dat was gelukkig niet zo. Je kon het gemakkelijk maken met Position sticky en deze heb ik dan ook meerdere keren in mijn site gebruikt en toegepast.
 
 <img src="images/Schermafbeelding 2021-12-15 om 15.57.45.png" alt="position sticky">
-
 
 </details>
 
@@ -211,9 +208,33 @@ Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om 
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 ik had moeite met het werken van grid en het opvullen van ruimte. Dit is uiteindelijk gelukt 
 (afbeelding die ik naar yunus stuurde )
+ook wilde ik uiteindelijk een api toevoegen van google maps, zodat ik ne als de echte site een kaart er in kon toevoegen onder an de home pages. dit is mij uiteindelijk helaas nog niet gelukt. 
+
+Maar de basis van de site staat en daar ben ik te verde voor nu mee. 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+Home page
+
+<img src="images/Schermafbeelding 2021-12-15 om 17.13.18.png" alt="breed scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.13.28.png" alt="breed scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.13.39.png" alt="breed scherm">
+
+<img src="images/Schermafbeelding 2021-12-15 om 17.14.12.png" alt="small scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.14.24.png" alt="small scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.14.38.png" alt="small scherm">
+
+Over ons 
+
+<img src="images/Schermafbeelding 2021-12-15 om 17.19.53.png" alt="breedste scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.20.04.png" alt="breedste scherm">
+
+<img src="images/Schermafbeelding 2021-12-15 om 17.19.15.png" alt="breed scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.19.21.png" alt="breed scherm">
+
+<img src="images/Schermafbeelding 2021-12-15 om 17.18.26.png" alt="small scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.18.34.png" alt="small scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.18.41.png" alt="small scherm">
+<img src="images/Schermafbeelding 2021-12-15 om 17.18.49.png" alt="small scherm">
 
 
 </details>
