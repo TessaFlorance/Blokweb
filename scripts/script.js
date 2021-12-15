@@ -10,7 +10,6 @@ function toonMenu() {
 }
 
 
-
 var Uitklappen = document.querySelector("nav button"); 
 
 Uitklappen.addEventListener("click", toggleMenu); 

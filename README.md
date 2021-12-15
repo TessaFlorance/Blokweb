@@ -45,9 +45,10 @@ Homepage (reisjunk)
 <img src="images/Schermafbeelding 2021-12-15 om 15.36.02.png " width="375px" alt="homepage small">
 <img src="images/Schermafbeelding 2021-12-15 om 15.36.222.png " width="375px" alt="homepage small">
 
-#### Screenshot(s) van de tweede pagina (small screen):
+#### Screenshot(s) van de tweede pagina:
 Over ons
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding 2021-12-15 om 15.45.17.png" width="375px" alt="over ons breed">
+<img src="images/Schermafbeelding 2021-12-15 om 15.45.25.png" width="375px" alt="over ons small">
  
 </details>
 
@@ -59,14 +60,7 @@ Over ons
 <summary>uitwerken na afloop 2e werkgroep. Deze werkgroep waren wij op school aangewezig. Dit is voor mij de eerste keer dat ik een techinsch vak op school volg. Dit vond ik erg fijn. Ik kon namelijk meteen feedback en uitleg vragen aan de docent of studentassistenen. Tijdens de les waren wij bezig met het maken van een breakdownschets, in het begin had ik er een beetje moeite mee het was namelijk een tijdje geleden dat ik bezig was met code en het maken van een breakdown schets was iets heel nieuws. in eersten instatie dacht ik is dit wel heel nuttig, wat heb ik hier aan maar na het maken van de schetsen en het beginnen met het schijven van mijn html was het toch best makkelijk. en kon je eigenlijk alles zo van je schetsen overnemen. </summary>
 
 ### de hele pagina: 
-<img src="basiswebsite/ reisjunk_breakdownschets.pdf" width="375px" alt="breakdown van de hele pagina">
-(fotos toevoegen)
-### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-### wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+<img src="images/reisjunk_homepage_breakdownschets.pdf" width="375px" alt="breakdown van de hele pagina">
 </details>
 
 
@@ -82,17 +76,19 @@ Over ons
 
 voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreken met onze club wie elke vragen preceis had zodat wij deze uiteindelijk in het gesprek konden stellen. 
 
-- Oefenen met het maken van een slide show, dit is mijn code ...  
+- Oefenen met het maken van een slide show, dit is mijn code geworden 
+<img src="images/Schermafbeelding 2021-12-15 om 15.49.18.png" alt="html">
+<img src="images/Schermafbeelding 2021-12-15 om 15.50.02.png" alt="css algemeen">
+<img src="images/Schermafbeelding 2021-12-15 om 15.50.09.png" alt="css section ">
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Vragen die worden gesteld: 
+html video
+acbtergrond img 
+img als achtergrond 
+maken van een slide show 
 
 
-
-|Marijn             | Dana                  |Sadie                  | Tessa                            |
-|                   |                       |                       |                                  |
-| Html Video        | img als achtergrond   |nog geen vragen        | het maken van een slide show     |
-| achtergrond img   |                       |                       |
 
 
 
@@ -119,11 +115,12 @@ Deze week ben ik bezig geweest met mijn website. Tijdens de offline les op het T
 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
+Vragen die worden gesteld:
+uitklappen menu 
+tekst uitlijnen 
+afbeeldingen in gethub kunnen plaatsen
 
-| Marijn            | Dana           | Sadie              | Tessa                                |
-| ---               | ---            | ---                | ---                                  |
-| tekst uilijnen    | uitklap menu   | nog geen vragen    | afbeeldingen in github plaatsen      |
+
 
 
 
@@ -147,7 +144,7 @@ Na het testen zijn wij weer zelfstandig bezig geweest met de website.
 Lijst met je bevindingen die in de test naar voren kwamen:
 
 #### Screenreader
-Tijdens de les gingen wij beizg met een screen reader, automatisch werd mijn hele tekst doorgelzen en ben ik niet echt tegen iets aangelopen dat verhindering kan veroorzaken. 
+Tijdens de les gingen wij beizg met een screen reader, automatisch werd mijn hele tekst doorgelezen en ben ik niet echt tegen iets aangelopen dat verhindering kan veroorzaken. 
 
 
 #### Parkison. 
@@ -161,6 +158,9 @@ mijn hele site is te gebruiken met de toetsen, dit is natuurlijk erg fijn, maar 
 
 
 Hoe is dit probleem kan oplossen ben ik nog niet achtergekomen. 
+
+<img src="images/Schermafbeelding 2021-12-15 om 15.14.17.png" alt="tap aan de linker kant">
+
 
 
 
@@ -191,7 +191,10 @@ samen met je groepje opstellen
 
 
 ### Verslag van meeting
-Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om ervoor de zorgen dat de tekst over een afbeelding heen gaat, maar dat was gelukkig niet zo. je kon het gemakkelijk maken met Position sticky en deze heb ik dna ook meerdere keren in mijn site gebruikt en toegepast. 
+Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om ervoor de zorgen dat de tekst over een afbeelding heen gaat, maar dat was gelukkig niet zo. Je kon het gemakkelijk maken met Position sticky en deze heb ik dan ook meerdere keren in mijn site gebruikt en toegepast.
+
+<img src="images/Schermafbeelding 2021-12-15 om 15.57.45.png" alt="position sticky">
+
 
 </details>
 

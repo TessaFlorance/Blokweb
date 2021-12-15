@@ -483,11 +483,12 @@ section:nth-of-type(2) h2{
 /* .overons section:nth-of-type(2) h1{
   grid-column-start:1;
   grid-row: 1;
-}
-.overons section:nth-of-type(2) p{
+  
+} */
+/* .overons section:nth-of-type(2) p{
   grid-column-start:1;
   grid-row: 1;
-} */
+}  */
 /* tips  */
 .overons section:nth-of-type(3){
   /* grid-template-columns:20em 1fr; */
@@ -508,19 +509,20 @@ section:nth-of-type(2) h2{
 grid-row-start: 2;
 grid-column-start: 3;
 grid-column-end: 5;
-height: 75%;
-padding: 2.75em;
+/* height: 75%;
+padding: 2.75em; */
 
   } 
 
-  /* .overons section:nth-of-type(4) img{
-    grid-column-start:3;
+  .overons section:nth-of-type(4) img{
+    /* grid-column-start:3;
     grid-row-start: 1;
     
     display: block;
     top: 0;
-  
-  } */
+     */
+  object-fit: scale-down;
+  }
 
   /* work with us */
   .overons section:nth-of-type(5){
@@ -543,14 +545,16 @@ padding: 2.75em;
   .overons section:nth-of-type(6){
     /* display:grid; */
     grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 4;
   }
-  /* .overons section:nth-of-type(6) h2{
+  .overons section:nth-of-type(6) h2{
     grid-column-start: 1;
   }
 
 .overons section:nth-of-type(6) img{
     grid-column-start: 1;
-  } */
+  }
   }
 
   /**************************************** styling voor nog Large-screen ******************************/
