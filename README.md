@@ -83,10 +83,10 @@ voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreke
 
 ### Agenda voor meeting
 Vragen die worden gesteld: 
-html video
-acbtergrond img 
-img als achtergrond 
-maken van een slide show 
+- html video
+- achtergrond img 
+- img als achtergrond 
+- maken van een slide show 
 
 
 
