@@ -40,7 +40,8 @@ https://www.reisjunk.nl/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage (reisjunk)
-<img src="basiswebsite/ " width="375px" alt="omschrijving van de pagina">
+<img src="images/Schermafbeelding 2021-12-15 om 15.35.32 " width="375px" alt="homepage breed">
+<img src="images/Schermafbeelding 2021-12-15 om 15.35.42 " width="375px" alt="homepage breed">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Over ons
