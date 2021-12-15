@@ -13,7 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Kick-off werkgroep</summary>
 
 ### Auteur:
 Tessa Welling 
@@ -57,7 +57,7 @@ Over ons
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep. Deze werkgroep waren wij op school aangewezig. Dit is voor mij de eerste keer dat ik een techinsch vak op school volg. Dit vond ik erg fijn. Ik kon namelijk meteen feedback en uitleg vragen aan de docent of studentassistenen. Tijdens de les waren wij bezig met het maken van een breakdownschets, in het begin had ik er een beetje moeite mee het was namelijk een tijdje geleden dat ik bezig was met code en het maken van een breakdown schets was iets heel nieuws. in eersten instatie dacht ik is dit wel heel nuttig, wat heb ik hier aan maar na het maken van de schetsen en het beginnen met het schijven van mijn html was het toch best makkelijk. en kon je eigenlijk alles zo van je schetsen overnemen. </summary>
+<summary> Deze werkgroep waren wij op school aangewezig. Dit is voor mij de eerste keer dat ik een techinsch vak op school volg. Dit vond ik erg fijn. Ik kon namelijk meteen feedback en uitleg vragen aan de docent of studentassistenen. Tijdens de les waren wij bezig met het maken van een breakdownschets, in het begin had ik er een beetje moeite mee het was namelijk een tijdje geleden dat ik bezig was met code en het maken van een breakdown schets was iets heel nieuws. In eersten instatie dacht ik is dit wel heel nuttig, wat heb ik hier aan maar na het maken van de schetsen en het beginnen met het schijven van mijn html was het toch best makkelijk. En kon je eigenlijk alles zo van je schetsen overnemen. </summary>
 
 ### de hele pagina: 
 <img src="images/reisjunk_homepage_breakdownschets.png" width="375px" alt="breakdown van de hele pagina">
@@ -74,7 +74,7 @@ Over ons
 
 ### Stand van zaken
 
-voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreken met onze club wie elke vragen preceis had zodat wij deze uiteindelijk in het gesprek konden stellen. 
+Voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreken met onze club wie elke vragen preceis had zodat wij deze uiteindelijk in het gesprek konden stellen. 
 
 - Oefenen met het maken van een slide show, dit is mijn code geworden 
 <img src="images/Schermafbeelding 2021-12-15 om 15.49.18.png" alt="html">
@@ -83,20 +83,18 @@ voordat wij begonnen met dit voortgangs gesprek gingen wij via whatsapp bespreke
 
 ### Agenda voor meeting
 Vragen die worden gesteld: 
-- html video
-- achtergrond img 
-- img als achtergrond 
-- maken van een slide show 
+- HTML video
+- Achtergrond img 
+- Img als achtergrond 
+- Maken van een slide show 
 
 
 
 
 
 ### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
 Tijdens dit voortgang gesrpek heb ik een duidelijk beeld gekregen wat er nou precies van mij verwacht word, hoe ver mijn klas genoten al zijn en hoe ik 1 heel belangrijk punt in mijn website maak namelijk een slide show. 
-het maken van een slideshow deden wij gezamelijk in het gesprek in code pen, deze code heb ik opgeslagen en op de juiste manier toegepast van hoe mijn carousel er uit moest komen te zien. 
+Het maken van een slideshow deden wij gezamelijk in het gesprek in code pen, deze code heb ik opgeslagen en op de juiste manier toegepast van hoe mijn carousel er uit moest komen te zien. 
 
 
 </details>
@@ -111,14 +109,14 @@ het maken van een slideshow deden wij gezamelijk in het gesprek in code pen, dez
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-Deze week ben ik bezig geweest met mijn website. Tijdens de offline les op het TTH vond ik het erg fijn dat wij konden werken aan onze website. hierdoor kon je gemakkelijk vragen stellen aan andere studenten, en de studentasistenten. omdat je snel en gemakkelijk vragen kan stellen, blijf je ook minder hangen op 1 onderdeel in je site en kan je gemakkelijk veder en voortgang maken. 
+Deze week ben ik bezig geweest met mijn website. Tijdens de offline les op het TTH vond ik het erg fijn dat wij konden werken aan onze website. hierdoor kon je gemakkelijk vragen stellen aan andere studenten, en de studentasistenten. Omdat je snel en gemakkelijk vragen kan stellen, blijf je ook minder hangen op 1 onderdeel in je site en kan je gemakkelijk veder en voortgang maken. 
 
 
 ### Agenda voor meeting
 Vragen die worden gesteld:
-- uitklappen menu 
-- tekst uitlijnen 
-- afbeeldingen in gethub kunnen plaatsen
+- Uitklappen menu 
+- Tekst uitlijnen 
+- Afbeeldingen in gethub kunnen plaatsen
 
 
 
@@ -150,11 +148,11 @@ Tijdens de les gingen wij beizg met een screen reader, automatisch werd mijn hel
 #### Parkison. 
 Mijn website was redelijk goed te gebruik dit omdat er niet echt buttons of knoppen in vererkt zitten alleen in het hamburger menu. Dit zou ik kunnen vebeteren door het menu nog iets groter te maken zodat je minder snel mis klikt. 
 
-ook was het meteen een hele ervaring om aangesloten te zitten op dat aparaatje. en je eigenlijk weining controle had over je bewegingen. 
+Ook was het meteen een hele ervaring om aangesloten te zitten op dat aparaatje. en je eigenlijk weining controle had over je bewegingen. 
 
 
 #### Tap. 
-mijn hele site is te gebruiken met de toetsen, dit is natuurlijk erg fijn, maar er is wel 1 verbeter puntje en dat is dat als je nu gaat tappen en je het menu niet opend je als nog door het menu heen tapt ookal is het niet zichtbaar. Het mooiste zou natuurlijk zijn dan je alleen door het menu tapt als je ook op het menu klikt. Als je goed kijk zie je op de foto aan de linker kant dat je op een menu zit.  
+Mijn hele site is te gebruiken met de toetsen, dit is natuurlijk erg fijn, maar er is wel 1 verbeter puntje en dat is dat als je nu gaat tappen en je het menu niet opend je als nog door het menu heen tapt ookal is het niet zichtbaar. Het mooiste zou natuurlijk zijn dan je alleen door het menu tapt als je ook op het menu klikt. Als je goed kijk zie je op de foto aan de linker kant dat je op een menu zit.  
 
 
 Hoe is dit probleem kan oplossen ben ik nog niet achtergekomen. 
@@ -180,9 +178,9 @@ Ik nog even een eindsprint gaan maken, ik voor zo goed als mijn eerste pagina af
 
 ### Agenda voor meeting
 vragen die gesteld worden: 
-- html pagina doorkijken 
-- iets uitklappen/ formulier
-- overlay, tekst over een afbeelding heen laten gaan. 
+- HTML pagina doorkijken 
+- Iets uitklappen/ formulier
+- Overlay, tekst over een afbeelding heen laten gaan. 
 
 
 ### Verslag van meeting
@@ -202,10 +200,13 @@ Ik begreep van de student assitent dat het nog best wel ingewikkeld kan zijn om 
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-ik had moeite met het werken van grid en het opvullen van ruimte. Dit is uiteindelijk gelukt 
-(afbeelding die ik naar yunus stuurde )
-ook wilde ik uiteindelijk een api toevoegen van google maps, zodat ik ne als de echte site een kaart er in kon toevoegen onder an de home pages. dit is mij uiteindelijk helaas nog niet gelukt. 
+Ik had moeite met het werken van grid en het opvullen van ruimte. Dit probleem had ik op 2 plekken, 1 daar van is opgelost met behlup van de student assistenten. 
+<img src="images/Schermafbeelding 2021-12-15 om 17.38.50.png" alt="wit ruimte grid">
+
+Ook wilde ik uiteindelijk een api toevoegen van google maps, zodat ik ne als de echte site een kaart er in kon toevoegen onder an de home pages. Dit is mij uiteindelijk helaas nog niet gelukt. 
+
+zo moest het worden
+<img src="images/Schermafbeelding 2021-12-15 om 17.36.53.png" alt="google map">
 
 Maar de basis van de site staat en daar ben ik te verde voor nu mee. 
 ### Screenshot(s)
